@@ -1,0 +1,13 @@
+﻿ProductId,productname,quantity,price,Image
+1210P00,Mixie,500,"8,000",https://user-images.githubusercontent.com/119845960/205608841-3a30db18-c02e-4983-a134-55e237c443c2.png
+1210P02,Coffe Maker,450,"9,500",https://user-images.githubusercontent.com/119845960/205613827-560a0a5c-be95-43d7-8823-b0253581b752.png
+1210P03,Blender,650,"5,000",https://user-images.githubusercontent.com/119845960/205656447-6e956322-c17a-4cf8-8e9d-cca621d23449.png
+1210P04,Micro Oven,400,"17,000",https://user-images.githubusercontent.com/119845960/205615273-7bf5135e-c63f-465c-9aaa-4692543cd043.png
+ 1210P05,Sofa,300,"25,000",https://user-images.githubusercontent.com/119845960/205646109-0b287d4a-8b37-4ae8-adfc-75d8a68529dd.png
+1210P06,Ac,450,"30,000",https://user-images.githubusercontent.com/119845960/205646594-0fad0d28-aefc-494b-9083-82e83f0a2ebd.png
+1210P07,Refrigirator,300,"45,000",https://user-images.githubusercontent.com/119845960/205646906-69d2bdf5-811e-4b1a-80c2-8a163756ce4d.png
+1210P08,Water Purifier,400,"13,000",https://user-images.githubusercontent.com/119845960/205647199-e8fded95-b05a-414d-894f-9c3461f53546.png
+1210P09, Washing Machine,350,"38,000",https://user-images.githubusercontent.com/119845960/205647458-ee88f6bf-a0a1-464e-b44f-7ba5a73fa103.png
+1210P10,Dinning Table with Chair,250,"25,000",https://user-images.githubusercontent.com/119845960/205647744-ea77fe5b-c287-4b15-98e9-230e278410e0.png
+1210P11,LED TV,350,"22,000",https://user-images.githubusercontent.com/119845960/205648826-58e87c55-e918-4727-a714-3765d86cd7d9.png
+1210P12,Home Theater,450,"15,000",https://user-images.githubusercontent.com/119845960/205649147-deb1f461-2517-444a-ac21-03250805acdc.png
